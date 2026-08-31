@@ -1,3 +1,1 @@
 # git-practice
-# Cindy
-# hi
